@@ -1,8 +1,0 @@
-com\maa\remote\controller\MaaController.class
-com\maa\remote\entity\TaskEndpoint.class
-com\maa\remote\service\TaskService.class
-com\maa\remote\entity\Identifier.class
-com\maa\remote\controller\ApiController.class
-com\maa\remote\entity\Task.class
-com\maa\remote\RemoteApplication.class
-com\maa\remote\entity\ThreadWrapper.class
