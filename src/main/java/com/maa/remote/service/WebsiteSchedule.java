@@ -9,8 +9,8 @@ import org.springframework.web.client.RestTemplate;
 
 @Component
 public class WebsiteSchedule {
-    @Resource
-    private RestTemplate restTemplate;
+
+    private RestTemplate restTemplate = new RestTemplate();
     @Value("${DOMAIN:gai.cloudns.org}")
     private String domain;
 
